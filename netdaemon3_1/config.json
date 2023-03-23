@@ -23,7 +23,7 @@
   "host_network": false,
   "options": {
     "log_level": "information",
-    "app_config_folder": "/config/netdaemon3",
+    "app_config_folder": "/config/netdaemon3_dotnet7",
     "app_assembly": ""
   },
   "services": [
